@@ -1,0 +1,50 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.main {
+  display: flex;
+}
+.lagveg {
+  margin-left: 7%;
+}
+
+.contact {
+  display: flex;
+  padding-left: 65%;
+}
+
+.nambar {
+  color: red;
+}
+
+.navbar {
+  background-color: red;
+  padding: 1% 0% 1% 0%;
+  color: white;
+  display: inline-flex;
+  width: 100%;
+}
+
+ui {
+  list-style: none;
+  display: flex;
+}
+
+li {
+  padding-left: 10%;
+}
+
+.fastes {
+  font-size: 200%;
+  text-transform: uppercase;
+}
+
+.nav {
+  margin-left: 39%;
+}
+
+form {
+  display: inline-flex;
+  padding-left: 5%;
+}
